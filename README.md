@@ -27,7 +27,7 @@
     # Create a virtual environment
     python3.9 -m venv venv
     # Activate that virtual environment
-    source venv/bin/activate
+    source venv/Scripts/activate
     # Install the project requirements.
     python -m pip install -r requirements.txt
     # or: pip install -r requirements.txt</code>
